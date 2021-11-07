@@ -4,6 +4,15 @@
 def sumar(n1, n2):
     return n1 + n2
 
+def resta (a, b):
+    return print(a - b)
+
+def producto (a, b):
+    return print(a * b)
+
+def division (a, b):
+    return print(a / b)
+
 # funcion generada por John Gomez
 def restar (n1, n2):
     if(n1 > n2):
@@ -22,8 +31,3 @@ def parimpar (n1, n2):
     else:
         return n2 " Es impar"
 
-#Esta linea fue generada por Daniela Avendano a modo de prueba
-#Imprime los numeros del 0 al 10
-for x in range(11):
-    print(x)
-#Fin de la linea
