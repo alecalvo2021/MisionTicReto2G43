@@ -21,3 +21,9 @@ def parimpar (n1, n2):
         return n2 " Es par"
     else:
         return n2 " Es impar"
+
+#Esta linea fue generada por Daniela Avendano a modo de prueba
+#Imprime los numeros del 0 al 10
+for x in range(11):
+    print(x)
+#Fin de la linea
